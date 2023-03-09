@@ -44,6 +44,7 @@ public class Testcase1 extends BaseClass{
 				fu.queryExecution("select * from carddetails", 4, "12"),
 				fu.queryExecution("select * from carddetails", 5, "27"),
 				fu.queryExecution("select * from carddetails", 6, "402"));
+		System.out.println("This is a practice project");
 		
 		
 	}
